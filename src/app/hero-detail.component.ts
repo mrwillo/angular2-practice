@@ -11,6 +11,7 @@ import {HeroService} from './hero.service'
 
 
 @Component({
+    styleUrls:['./hero-detail.component.css'],
     selector: 'hero-detail',
     templateUrl:'./hero-detail.component.html'
 })
